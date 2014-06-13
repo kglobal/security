@@ -1,5 +1,4 @@
 #
-# From your command line, run these two commands to start.
+# Read more and watch less TV.
 #
-chmod 777 ssh/1.sh ; ssh/1.sh
 
